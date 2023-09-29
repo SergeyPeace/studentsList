@@ -1,4 +1,4 @@
-const URL = 'http://localhost:3000/api/students';
+const URL = 'https://students-list-server.onrender.com/api/students';
 
 //Функция вывода одного студента в таблицу
 function getStudentObj(studentObj){
